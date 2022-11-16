@@ -4,6 +4,10 @@ This roadmap demonstrates the path that you can take and the technologies that y
 
 ![Machine Learning Roadmap](https://github.com/rajtilakjee/machine-learning-roadmap/blob/main/assets/machine-learning-roadmap.png)
 
+## Educational Content
+
+- [Programming Languages](./programming-languages.md)
+
 ## Contribution
 
 This roadmap is built using Balsamiq. Project file can be found in `./assets` and is named `machine-learning-roadmap.bmpr`. To the roadmap, open [Balsamiq Cloud](https://balsamiq.cloud/), click on Upload Project button and select the project file, it will open the roadmap for you. This is an open-source project, so feel free to contribute. Please read the [CONTRIBUTION.md](/CONTRIBUTING.md) file to know more about the contribution workflow.
