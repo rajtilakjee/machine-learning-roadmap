@@ -7,10 +7,10 @@ This roadmap demonstrates the path that you can take and the technologies that y
 ## Educational Content
 
 - [Programming Languages](./programming-languages.md)
-- Mathematics
-- Data Engineering
-- Machine Learning
-- Deep Learning
+- [Mathematics](./mathematics.md)
+- [Data Engineering](./data-engineering.md)
+- [Machine Learning](./machine-learning.md)
+- [Deep Learning](./deep-learning.md)
 
 ## Contribution
 
