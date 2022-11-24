@@ -1,6 +1,6 @@
 # Resources
 
-Following is a list of resources for learning the technologies mentioned in the roadmap at [README](readme.md). Majority of these links would redirect you to free resources readily available to the general public. However, in some cases, I may point out a few paid resources which are exceptionally good.
+Following is a list of resources for learning the technologies mentioned in the roadmap at [README](README.md). Majority of these links would redirect you to free resources readily available to the general public. However, in some cases, I may point out a few paid resources which are exceptionally good.
 
 ## Programming Languages
 
