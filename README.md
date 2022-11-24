@@ -1,16 +1,8 @@
 # Machine Learning Roadmap
 
-This roadmap demonstrates the path that you can take and the technologies that you would want to adopt in order to become a machine learning engineer, a data engineer, or a data scientist. The resources.md file contains links to reading materials which you can follow to learn about the technologies mentioned in the roadmap.
+This roadmap demonstrates the path that you can take and the technologies that you would want to adopt in order to become a machine learning engineer, a data engineer, or a data scientist. The [resources.md](resources.md) file contains links to materials which will help you learn the technologies mentioned in the roadmap.
 
 ![Machine Learning Roadmap](https://github.com/rajtilakjee/machine-learning-roadmap/blob/main/assets/machine-learning-roadmap.png)
-
-## Educational Content
-
-- [Programming Languages](./programming-languages.md)
-- [Mathematics](./mathematics.md)
-- [Data Engineering](./data-engineering.md)
-- [Machine Learning](./machine-learning.md)
-- [Deep Learning](./deep-learning.md)
 
 ## Contribution
 
